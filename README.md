@@ -7,13 +7,13 @@
 </p>
 
 ### 🚀 What I do
+
 - 🛠 Founder and CTO for @marquescg — building AI and data platforms for SMEs.
 - 🤖 Co-creator of **[AI Diplomacy](https://github.com/EveryInc/AI_Diplomacy)** (LLM-powered strategy agents).
 - 📈 Helping teams productionize ML with Kubernetes, Pulumi, Grafana & friends.
 
-
 ### 📊 Stats
-![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylermarques&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tylermarques&layout=compact)
 
 <!-- Optional extras: WakaTime, GitHub Streak, visitor badge -->
