@@ -1,0 +1,19 @@
+<h1 align="center">Hey, I'm Tyler 👋</h1>
+
+<p align="center">
+  <a href="https://tylermarques.com">Blog</a> •
+  <a href="mailto:tyler@marquescg.com">Email</a> •
+  <a href="https://www.linkedin.com/in/tylermarques/">LinkedIn</a>
+</p>
+
+### 🚀 What I do
+- 🛠 Founder and CTO for @marquescg — building AI and data platforms for SMEs.
+- 🤖 Co-creator of **[AI Diplomacy](https://github.com/EveryInc/AI_Diplomacy)** (LLM-powered strategy agents).
+- 📈 Helping teams productionize ML with Kubernetes, Pulumi, Grafana & friends.
+
+
+### 📊 Stats
+![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylermarques&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tylermarques&layout=compact)
+
+<!-- Optional extras: WakaTime, GitHub Streak, visitor badge -->
