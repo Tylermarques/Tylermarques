@@ -14,7 +14,7 @@
 
 ### 📊 Stats
 
-[![Activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tylermarques&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tylermarques&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tylermarques&layout=compact)
 
 <!-- Optional extras: WakaTime, GitHub Streak, visitor badge -->
